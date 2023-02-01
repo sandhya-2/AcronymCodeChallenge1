@@ -95,6 +95,7 @@
 			children = (
 				84E2D3C2298A97090040727F /* AcronymCodeChallenge1 */,
 				84E2D3F5298ACC220040727F /* AcronymCodeChallenge1Tests */,
+				84E2D410298AD12A0040727F /* README.md */,
 				84E2D3C1298A97090040727F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -122,7 +123,6 @@
 				84E2D3C7298A970B0040727F /* Assets.xcassets */,
 				84E2D40D298AD0470040727F /* Resources */,
 				84E2D3C9298A970B0040727F /* Preview Content */,
-				84E2D410298AD12A0040727F /* README.md */,
 			);
 			path = AcronymCodeChallenge1;
 			sourceTree = "<group>";
